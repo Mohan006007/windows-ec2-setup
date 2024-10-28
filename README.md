@@ -1,13 +1,13 @@
 Windows EC2 Setup on AWS
-This repository contains screenshots and documentation for setting up a Windows virtual machine (VM) on AWS EC2 and connecting via RDP.
+This repository documents the setup of a Windows EC2 instance on AWS with RDP access.
 
-Task Overview
-Launch Windows EC2 Instance - Created a Windows VM using AWS EC2.
-Configure Security Group - Enabled RDP access on port 3389.
-Connect via RDP - Established a Remote Desktop session.
-System Information - Captured system information from the instance.
+Overview
+Instance Launch - Created a Windows VM on AWS EC2.
+Security Group Configuration - Enabled RDP (port 3389) for remote access.
+RDP Connection - Established remote access via RDP.
+System Info Verification - Captured system info to confirm setup.
 Files
-aws-ec2-dashboard.png - AWS EC2 instance dashboard.
-windows-security-group-rdp.png - Security group with RDP port 3389 enabled.
-ec2-rdp-connection.png - RDP connection to the Windows instance.
-instance-system-info.png - Output of system information command.
+aws-ec2-dashboard.png: EC2 dashboard view.
+windows-security-group-rdp.png: Security group with RDP enabled.
+ec2-rdp-connection.png: RDP connection screenshot.
+instance-system-info.png: System info output.
